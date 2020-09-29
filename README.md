@@ -15,7 +15,9 @@ This project is designed for one to practice the Git/Github workflow here at Lam
   - [ ] Add your PM as a reviewer on the Pull-Request
 - [ ] PM then will count the Assignment as done by merging the HW back into master "STUDENT FORK".
 
-## Bryce Lipscomb
+## ADD your name here
 
 - Steve Rogers
 - Ryan Hamblin
+- Savage Man Randy Savage
+- Stone Cold Brew Austin, Tx
